@@ -1,0 +1,9 @@
+Removed Pin From Net: NetName=IO34 Pin=R59-1
+Removed Pin From Net: NetName=IO35 Pin=R59-2
+Removed Pin From Net: NetName=IO32 Pin=R59-3
+Removed Pin From Net: NetName=IO33 Pin=R59-4
+Change Component Comment : Designator=IC1 Old Comment=BSS84-7-F New Comment=AO3401A
+Added Pin To Net: NetName=IO33 Pin=R59-1
+Added Pin To Net: NetName=IO32 Pin=R59-2
+Added Pin To Net: NetName=IO35 Pin=R59-3
+Added Pin To Net: NetName=IO34 Pin=R59-4

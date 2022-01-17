@@ -1,0 +1,22 @@
+DRC Rules Export File for PCB: C:\Users\FAHRI ALVIAN\Documents\ESP_GSM_IOT\ESP_GSM_V1.1.PcbDoc
+RuleKind=Clearance|RuleName=Clearance_15|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_14|Scope=Board|Minimum=23.62
+RuleKind=Clearance|RuleName=Clearance_13|Scope=Board|Minimum=27.56
+RuleKind=Clearance|RuleName=0.5|Scope=Board|Minimum=10.00
+RuleKind=Clearance|RuleName=Clearance_12|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_11|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_10|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_9|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_8|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance_7|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_6|Scope=Board|Minimum=19.69
+RuleKind=Clearance|RuleName=Clearance_5|Scope=Board|Minimum=27.56
+RuleKind=Clearance|RuleName=Clearance_4|Scope=Board|Minimum=27.56
+RuleKind=Clearance|RuleName=Clearance_1|Scope=Board|Minimum=39.37
+RuleKind=Clearance|RuleName=Clearance_3|Scope=Board|Minimum=27.56
+RuleKind=Clearance|RuleName=Clearance_2|Scope=Board|Minimum=27.56
+RuleKind=Width|RuleName=data|Scope=Board|Minimum=10.00
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=pwr|Scope=Board|Minimum=11.81
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=7.87
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

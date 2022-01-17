@@ -1,0 +1,13 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : Project [ESP_GSM_IOT.PrjPcb]
+   Generated File[ESP_GSM_IOT-RoundHoles.TXT]
+   Generated File[ESP_GSM_IOT-SlotHoles.TXT]
+   Generated File[ESP_GSM_IOT.LDP]
+   Generated File[ESP_GSM_IOT.DRR]
+
+
+Files Generated   : 4
+Documents Printed : 0
+
+Finished Output Generation At 18:52:36 On 14/01/2022

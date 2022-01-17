@@ -1,0 +1,22 @@
+Added Component: Designator=L6(IND-SMD_L4.5-W4.1_TMPC0412HP)
+Add component (AddParameter): Name = "Component Type"; Value = "Inductor"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Manufacturer Part No"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Order Code"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Supplier"; Value = ""; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Value"; Value = "1uH"; VariantName = "[No Variations]"
+Added Component: Designator=P6(RJ11 4PC4 Right)
+Add component (AddParameter): Name = "LatestRevisionDate"; Value = "17-Jul-2002"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "LatestRevisionNote"; Value = "Re-released for DXP Platform."; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Publisher"; Value = "Altium Limited"; VariantName = "[No Variations]"
+Added Component: Designator=S2(Switch 2P2T)
+Added Pin To Net: NetName=NetL6_1 Pin=L6-1
+Added Pin To Net: NetName=V_Batt Pin=L6-2
+Added Pin To Net: NetName=GND Pin=P6-1
+Added Pin To Net: NetName=D32- Pin=P6-2
+Added Pin To Net: NetName=D33- Pin=P6-3
+Added Pin To Net: NetName=NetD11_2 Pin=S2-1.2
+Added Pin To Net: NetName=GND Pin=S2-3.2
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component L6 1uH
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component P6 RJ11 4P
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component S2 Switch 2P2T

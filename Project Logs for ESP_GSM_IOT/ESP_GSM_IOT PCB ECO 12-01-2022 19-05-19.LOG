@@ -1,0 +1,5 @@
+Removed Pin From Net: NetName=V_Charge Pin=P4-2
+Added Pin To Net: NetName=GND Pin=P2-9
+Added Pin To Net: NetName=GND Pin=P2-10
+Added Pin To Net: NetName=GND Pin=P2-11
+Added Pin To Net: NetName=5V Pin=P4-2

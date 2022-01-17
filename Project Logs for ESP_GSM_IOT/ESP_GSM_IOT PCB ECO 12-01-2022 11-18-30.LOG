@@ -1,0 +1,6 @@
+Change Component Footprint: Designator=S1 Old Footprint=PUSHBUTTON3X4 New Footprint=C&K KSS
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component C42 10uF
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component C44 Cap100pF
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component D12 LED-GREEN
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component P7 Header 4
+Added Member To Class: ClassName=ESP_GSM_IOT Member=Component R57 R10K
