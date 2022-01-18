@@ -1,6 +1,0 @@
-Added Component: Designator=D11(LITEON LTV-817)
-Added Pin To Net: NetName=NetD11_1 Pin=D11-1
-Added Pin To Net: NetName=NetD11_2 Pin=D11-2
-Added Pin To Net: NetName=GND Pin=D11-3
-Added Pin To Net: NetName=IO5 Pin=D11-4
-Added Member To Class: ClassName=ESP_GSM_IOT Member=Component D11 LTV-817
