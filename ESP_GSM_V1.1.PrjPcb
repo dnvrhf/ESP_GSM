@@ -41,23 +41,6 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=ESP_GSM_IOT.Annotation
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document2]
 DocumentPath=ESP_GSM_IOT.IntLib
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -74,7 +57,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document3]
+[Document2]
 DocumentPath=ESP_GSM_V1.1.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -91,24 +74,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=JLVNTPTK
 
-[Document4]
-DocumentPath=ESP_GSM_V1.1.OutJob
-AnnotationEnabled=1
-AnnotateStartValue=1
-AnnotationIndexControlEnabled=0
-AnnotateSuffix=
-AnnotateScope=All
-AnnotateOrder=-1
-DoLibraryUpdate=1
-DoDatabaseUpdate=1
-ClassGenCCAutoEnabled=1
-ClassGenCCAutoRoomEnabled=1
-ClassGenNCAutoScope=None
-DItemRevisionGUID=
-GenerateClassCluster=0
-DocumentUniqueId=
-
-[Document5]
+[Document3]
 DocumentPath=ESP_GSM_V1.1.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -125,7 +91,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=KDUIQMTY
 
-[Document6]
+[Document4]
 DocumentPath=ESP_GSM_V1.1\ESP_GSM_V1.1.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -142,7 +108,7 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
-[Document7]
+[Document5]
 DocumentPath=ESP_GSM_V1.1\ESP_GSM_V1.1_NCDrill.Cam
 AnnotationEnabled=1
 AnnotateStartValue=1
@@ -160,227 +126,111 @@ GenerateClassCluster=0
 DocumentUniqueId=
 
 [GeneratedDocument1]
-DocumentPath=Project Outputs for ESP_GSM_IOT\Design Rule Check - ESP_GSM_IOT.html
-DItemRevisionGUID=
-
-[GeneratedDocument2]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\Design Rule Check - ESP_GSM_V1.html
 DItemRevisionGUID=
 
-[GeneratedDocument3]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT-RoundHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument4]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT-SlotHoles.TXT
-DItemRevisionGUID=
-
-[GeneratedDocument5]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.DRR
-DItemRevisionGUID=
-
-[GeneratedDocument6]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.EXTREP
-DItemRevisionGUID=
-
-[GeneratedDocument7]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GBL
-DItemRevisionGUID=
-
-[GeneratedDocument8]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GBO
-DItemRevisionGUID=
-
-[GeneratedDocument9]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GBS
-DItemRevisionGUID=
-
-[GeneratedDocument10]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GKO
-DItemRevisionGUID=
-
-[GeneratedDocument11]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM1
-DItemRevisionGUID=
-
-[GeneratedDocument12]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM4
-DItemRevisionGUID=
-
-[GeneratedDocument13]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM7
-DItemRevisionGUID=
-
-[GeneratedDocument14]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM8
-DItemRevisionGUID=
-
-[GeneratedDocument15]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM10
-DItemRevisionGUID=
-
-[GeneratedDocument16]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM13
-DItemRevisionGUID=
-
-[GeneratedDocument17]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM14
-DItemRevisionGUID=
-
-[GeneratedDocument18]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM15
-DItemRevisionGUID=
-
-[GeneratedDocument19]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GM16
-DItemRevisionGUID=
-
-[GeneratedDocument20]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GPB
-DItemRevisionGUID=
-
-[GeneratedDocument21]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GPT
-DItemRevisionGUID=
-
-[GeneratedDocument22]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GTL
-DItemRevisionGUID=
-
-[GeneratedDocument23]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GTO
-DItemRevisionGUID=
-
-[GeneratedDocument24]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GTP
-DItemRevisionGUID=
-
-[GeneratedDocument25]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.GTS
-DItemRevisionGUID=
-
-[GeneratedDocument26]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.LDP
-DItemRevisionGUID=
-
-[GeneratedDocument27]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.REP
-DItemRevisionGUID=
-
-[GeneratedDocument28]
-DocumentPath=Project Outputs for ESP_GSM_IOT\ESP_GSM_IOT.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument29]
+[GeneratedDocument2]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1-RoundHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument30]
+[GeneratedDocument3]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1-SlotHoles.TXT
 DItemRevisionGUID=
 
-[GeneratedDocument31]
+[GeneratedDocument4]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.DRR
 DItemRevisionGUID=
 
-[GeneratedDocument32]
+[GeneratedDocument5]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.EXTREP
 DItemRevisionGUID=
 
-[GeneratedDocument33]
+[GeneratedDocument6]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GBL
 DItemRevisionGUID=
 
-[GeneratedDocument34]
+[GeneratedDocument7]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GBO
 DItemRevisionGUID=
 
-[GeneratedDocument35]
+[GeneratedDocument8]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GBS
 DItemRevisionGUID=
 
-[GeneratedDocument36]
+[GeneratedDocument9]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GKO
 DItemRevisionGUID=
 
-[GeneratedDocument37]
+[GeneratedDocument10]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM1
 DItemRevisionGUID=
 
-[GeneratedDocument38]
+[GeneratedDocument11]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM4
 DItemRevisionGUID=
 
-[GeneratedDocument39]
+[GeneratedDocument12]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM7
 DItemRevisionGUID=
 
-[GeneratedDocument40]
+[GeneratedDocument13]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM8
 DItemRevisionGUID=
 
-[GeneratedDocument41]
+[GeneratedDocument14]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM10
 DItemRevisionGUID=
 
-[GeneratedDocument42]
+[GeneratedDocument15]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM13
 DItemRevisionGUID=
 
-[GeneratedDocument43]
+[GeneratedDocument16]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM14
 DItemRevisionGUID=
 
-[GeneratedDocument44]
+[GeneratedDocument17]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM15
 DItemRevisionGUID=
 
-[GeneratedDocument45]
+[GeneratedDocument18]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GM16
 DItemRevisionGUID=
 
-[GeneratedDocument46]
+[GeneratedDocument19]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GPB
 DItemRevisionGUID=
 
-[GeneratedDocument47]
+[GeneratedDocument20]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GPT
 DItemRevisionGUID=
 
-[GeneratedDocument48]
+[GeneratedDocument21]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GTL
 DItemRevisionGUID=
 
-[GeneratedDocument49]
+[GeneratedDocument22]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GTO
 DItemRevisionGUID=
 
-[GeneratedDocument50]
+[GeneratedDocument23]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GTP
 DItemRevisionGUID=
 
-[GeneratedDocument51]
+[GeneratedDocument24]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.GTS
 DItemRevisionGUID=
 
-[GeneratedDocument52]
+[GeneratedDocument25]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.LDP
 DItemRevisionGUID=
 
-[GeneratedDocument53]
+[GeneratedDocument26]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.REP
 DItemRevisionGUID=
 
-[GeneratedDocument54]
+[GeneratedDocument27]
 DocumentPath=Project Outputs for ESP_GSM_V1.1\ESP_GSM_V1.1.RUL
-DItemRevisionGUID=
-
-[GeneratedDocument55]
-DocumentPath=Project Outputs for ESP_GSM_IOT\Pick Place for ESP_GSM_IOT.csv
-DItemRevisionGUID=
-
-[GeneratedDocument56]
-DocumentPath=Project Outputs for ESP_GSM_IOT\Pick Place for ESP_GSM_IOT.txt
 DItemRevisionGUID=
 
 [Configuration1]
